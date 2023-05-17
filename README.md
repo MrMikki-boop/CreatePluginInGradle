@@ -1,2 +1,2 @@
 # Create Plugin In Gradle
-installing dependencies Apache Commons Lang library and Gradle plugin Use Latest Versions Plugin
+Installing Apache Commons Lang library dependencies and Gradle plugin Use the latest plugin versions
